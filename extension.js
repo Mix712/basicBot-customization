@@ -88,7 +88,7 @@
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: null,
+        opLink: "https://github.com/Tortelett/Plug-OP-list/blob/master/List",
         rulesLink: null,
         themeLink: null,
         fbLink: null,
